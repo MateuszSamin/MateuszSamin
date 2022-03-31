@@ -1,8 +1,6 @@
 # Hi there, I'm Mateusz👋 
 
 
-## I'm a Husband, Father, Developer, and Teacher!!
-
 - 🔭I’m currently working on **[React Wheater App](https://github.com/maciejpieczarka/mateusz.samin-project)**
 - 🌱 I’m currently learning React.js and Node.js
 - 👯 I’m looking to collaborate on OpenSource Projects
