@@ -35,6 +35,5 @@
 </a>
 <a href="https://github.com/mateuszsamin?tab=followers"><img src="https://img.shields.io/github/followers/mateuszsamin?label=Followers&style=social" alt="GitHub Badge"></a>
 
-[website]: https://mateuszsamin.github.io
-[instagram]: https://www.instagram.com/mateusz_samin/
-[linkedin]: https://pl.linkedin.com/in/mateusz-samin-1a3a85205
+<a href = "https://pl.linkedin.com/in/mateusz-samin-1a3a85205"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/mateusz_samin/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
