@@ -2,9 +2,9 @@
 
 
 - 🔭I’m currently working on **[React Wheather App](https://github.com/MateuszSamin/Weather-App)**
-- 🌱 I’m currently learning React.js and Node.js
+- 🌱 I’m currently learning React.js
 - 👯 I’m looking to collaborate on OpenSource Projects
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://mateuszsamin.github.io/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://mateuszsamin*.github.io/)**
 - ⚡ Fun fact: I love basketball
 
 ### Languages and Tools:
