@@ -25,6 +25,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+  1. Simple Chat Application in [SayHello-Chat-Application-in-PHP](https://github.com/MateuszSamin/SayHello-Chat-Application-in-PHP)
 <!--END_SECTION:activity-->
 
 </details>
