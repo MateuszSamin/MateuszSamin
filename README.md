@@ -8,13 +8,17 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/html-5.png" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<a style="padding-right:16px;" href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/officel/48/fa314a/php-logo.png"/></a>
+<img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/color/48/000000/css3.png" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png" style="padding-right:10px;" />
+<img align="left" alt="TypeScript" width="26px" src="https://img.icons8.com/color/48/000000/typescript.png" style="padding-right:10px;" />
+<img align="left" alt="React" width="26px" src="https://img.icons8.com/color/48/000000/react-native.png" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="26px" src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" style="padding-right:10px;" />
+<img align="left" alt="Node.js" width="26px" src="https://img.icons8.com/color/48/000000/nodejs.png" style="padding-right:10px;" />
+<img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java.png" style="padding-right:10px;" />
+<img align="left" alt="Flutter" width="26px" src="https://img.icons8.com/color/48/000000/flutter.png" style="padding-right:10px;" />
+<img align="left" alt="PHP" width="26px" src="https://img.icons8.com/officel/48/fa314a/php-logo.png" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" style="padding-right:10px;" />
 
 <br />
 <br />
