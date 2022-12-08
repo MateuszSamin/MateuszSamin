@@ -17,7 +17,6 @@
 <img align="left" alt="Node.js" width="26px" src="https://img.icons8.com/color/48/000000/nodejs.png" style="padding-right:10px;" />
 <img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java.png" style="padding-right:10px;" />
 <img align="left" alt="Flutter" width="26px" src="https://img.icons8.com/color/48/000000/flutter.png" style="padding-right:10px;" />
-<img align="left" alt="PHP" width="26px" src="https://img.icons8.com/officel/48/fa314a/php-logo.png" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" style="padding-right:10px;" />
 
 <br />
