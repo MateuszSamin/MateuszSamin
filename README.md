@@ -15,7 +15,6 @@
 <img align="left" alt="React" width="26px" src="https://img.icons8.com/color/48/000000/react-native.png" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="26px" src="https://img.icons8.com/color/48/000000/nodejs.png" style="padding-right:10px;" />
-<img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java.png" style="padding-right:10px;" />
 <img align="left" alt="Flutter" width="26px" src="https://img.icons8.com/color/48/000000/flutter.png" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" style="padding-right:10px;" />
 
